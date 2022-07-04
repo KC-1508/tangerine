@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-version '1.0.0-PROOF' --[[
+version '1.0.0-PROOF-2' --[[
     This is a PROOF build, and is not recommended for use.
 ]]
 game 'gta5'
