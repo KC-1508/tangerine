@@ -1,5 +1,5 @@
 @font-face {
-    src: url(../fonts/Rubik-Light.ttf);
+    src: url('../fonts/Rubik-Light.ttf');
     font-family: Rubik;
 }
 
@@ -10,11 +10,11 @@ html, body {
     background: #1c1b22;
 }
 
-/* .backdrop {
-    background: url(../images/example_one.jpg);
-} */
-
-/* PROOF - Backdrop not working. */
+.tangerine {
+    background-image: url('../../stream/eg_1.png');
+    background-size: cover; background-repeat: no-repeat;
+    height: 100vh; 
+}
 
 .not-a-orange {
     margin: 0px;
