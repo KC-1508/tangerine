@@ -1,2 +1,2 @@
 # tangerine
-🍊Open source loading screen for 5M.
+🍊 Open source loading screen for 5M.
