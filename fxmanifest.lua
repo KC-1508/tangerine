@@ -17,10 +17,11 @@ server_scripts {
 }
 
 files {
+    'stream/*.png',
+    'stream/*.jpg',
     'web/index.html',
     'web/css/index.css',
-    'web/fonts/Rubik-Light.ttf',
-    'web/images/example_one.png'
+    'web/fonts/Rubik-Light.ttf'
 }
 
 loadscreen 'web/index.html'
