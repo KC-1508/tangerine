@@ -20,9 +20,11 @@ files {
     'stream/*.png',
     'stream/*.jpg',
     'web/index.html',
+    'audio/audio.mp3',
     'web/css/index.css',
     'web/fonts/Rubik-Light.ttf'
 }
 
+loadscreen_cursor 'yes'
 loadscreen 'web/index.html'
 loadscreen_manual_shutdown "yes"
